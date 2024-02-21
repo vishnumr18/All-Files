@@ -1,3 +1,0 @@
-don
-ocean
-map
