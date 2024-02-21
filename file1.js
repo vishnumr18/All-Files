@@ -1,3 +1,1 @@
-don
-ocean
-map
+console.log("Hello world")
